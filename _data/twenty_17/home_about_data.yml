@@ -2,34 +2,34 @@
   img: icon-about.jpeg
   name: Theme, Vision, Mission
   info: Read more about our Theme, Vision, and Mission
-  link: "{{ site.baseurl }}/about"
+  link: "/about"
 
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
   name: Agenda
   info: Check out the agenda
-  link: "{{ site.baseurl }}/agenda"
+  link: "/agenda"
 
 - inverted: 
   img: icon-team.jpeg
   name: Team
   info: Find out the team members
-  link: "{{ site.baseurl }}/team"
+  link: "/team"
 
 - inverted: timeline-inverted
   img: icon-venue.jpeg
   name: Venue
   info: Learn more about our location
-  link: "{{ site.baseurl }}/venue"
+  link: "/venue"
 
 - inverted: 
   img: icon-faq.jpeg
   name: FAQs
   info: Have a Question? Many answers can be found right here in our FAQs
-  link: "{{ site.baseurl }}/faqs"
+  link: "/faqs"
 
 - inverted: timeline-inverted
   img: booklet-icon.png
   name: Event Booklet
   info: View or Download our event booklet
-  link: "{{ site.baseurl }}/booklet"
+  link: "/booklet"
