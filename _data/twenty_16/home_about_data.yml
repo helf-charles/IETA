@@ -26,4 +26,4 @@
   img: icon-faq.jpeg
   name: FAQs
   info: Have a Question? Many answers can be found right here in our FAQs
-  link: "/{{ site.baseurl }}/2016/faqs"
+  link: "/IETA/2016/faqs"
